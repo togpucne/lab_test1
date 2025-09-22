@@ -15,5 +15,6 @@ build/
 .DS_Store
 Thumbs.db
 
+
 # VSCode settings
 .vscode/
